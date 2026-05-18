@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm Wildner Coelho
+# Hi, I'm Wildner de Freitas
 
 Enterprise Infrastructure & Hybrid Cloud Specialist with 15+ years of experience supporting mission-critical corporate and government environments.
 
